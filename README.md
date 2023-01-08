@@ -1,0 +1,1 @@
+# Map-Join-iterate-through-the-array-and-create-a-string-without-spaces
